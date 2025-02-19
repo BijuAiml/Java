@@ -1,8 +1,8 @@
 
-public class 
+class 
 
-     new {
-    public static void main(String[] args) {
+     new{
+public static void main(String[] args) {
         int i = 10;
         int j = 30;
         int k = 40;
