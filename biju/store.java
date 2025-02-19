@@ -1,11 +1,12 @@
 
 public class store {
 
-    public static void main(string[] args) {
-        int value = 30;
-        String value2 = "victer";
-        System.out.println("values");
-        System.out.println("value2");
+    public static void main(String[] args) {
+
+        int val = 30;
+        String va1 = "victer";
+        System.out.println(val);
+        System.out.println(va1);
 
     }
 }
