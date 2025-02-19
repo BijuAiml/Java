@@ -8,5 +8,7 @@ public class store {
         int k = 40;
 
         System.out.println(i + j + k);
+        System.out.println(i - j - k);
+        System.out.println(i * j * k);
     }
 }
